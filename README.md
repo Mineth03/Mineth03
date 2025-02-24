@@ -26,7 +26,6 @@
 
 <br>
 
-
 <h2> Git Activeness <img src='https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif' width="100px" height="40px"> </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mineth03&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mineth03&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>

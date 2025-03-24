@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mineth Sandew</h1>
 <h3 align="center">Undergraduate BSc (Hons) Artificial Intelligence and Data Science | Robert Gordon University | Informatic Institute of Technology.</h3>
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 ---
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>

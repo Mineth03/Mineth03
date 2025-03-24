@@ -31,6 +31,13 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mineth03&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 <br><br><br><br><br><br><br>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mineth03/Mineth03/output/github-snake.svg" />
+  <br/>
+</div>
+
 <h2>Cheers if you've read till here. So here's a cute catto 🐱 for you:</h2>
 <div align="center">
     <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
